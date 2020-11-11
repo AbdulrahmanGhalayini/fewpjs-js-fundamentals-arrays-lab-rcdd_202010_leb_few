@@ -3,4 +3,4 @@ const prepend= ["Milo", "Otis", "Garfield"];
 const removeLast = ["Milo", "Otis", "Garfield"];
 const removeFirst= ["Milo", "Otis", "Garfield"];
 append.push('Odie');
-superheroes.push('Wonder Woman');
+prepend.unshift('Wonder Woman');
